@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailfender",
+        "uuid": 22195576,
+        "checksum": "dkh96j"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
